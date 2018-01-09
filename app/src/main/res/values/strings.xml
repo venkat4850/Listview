@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string-array name="array_technology">
+        <item>venkat</item>
+        <item>vijay</item>
+        <item>rajesh</item>
+        <item>manoj</item>
+        <item>sampath</item>
+        <item>abdul</item>
+        <item>chakri</item>
+        <item>srinath</item>
+        <item>sailaja</item>
+        <item>vishimitha</item>
+        <item>sirisha</item>
+        <item>ranjeet</item>
+    </string-array>
+</resources>
